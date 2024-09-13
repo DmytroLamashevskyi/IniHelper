@@ -98,14 +98,4 @@ IniHelper is licensed under the MIT License. See the LICENSE file for more detai
 ## Contact
 For any questions or support, feel free to reach out by opening an issue on the GitHub repository.
 
-
-### Key Points Included:
-- **Overview** of what the tool does.
-- **Features**: Highlighting the core functionality of the tool.
-- **Installation**: Information on how to install the library.
-- **Usage Examples**: Showing how to use the tool for reading and writing INI files, including async methods and safe reading.
-- **Performance Testing**: Explanation of the built-in performance tests.
-- **Contributing**: Instructions for developers who want to contribute.
-- **License**: Reference to the license for the project.
-
-This `README.md` file should provide a good foundation for explaining the functionality of `IniHelper` to new users and developers.
+ 
