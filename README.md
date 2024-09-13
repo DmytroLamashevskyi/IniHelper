@@ -13,10 +13,10 @@ IniHelper is a .NET library designed to simplify working with INI configuration 
 
 ## Installation
 
-To use IniHelper in your project, you can add it as a NuGet package:
+You can install this package via [NuGet](https://www.nuget.org/packages/IniHelperTool/1.0.0) by running the following command in your NuGet Package Manager Console:
 
 ```bash
-dotnet add package IniHelper
+Install-Package IniHelperTool
 ```
 
 # Usage
